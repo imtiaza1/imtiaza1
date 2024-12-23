@@ -4,7 +4,12 @@
 
 Welcome to my GitHub profile! I'm a dedicated Full-Stack Web Developer, passionate about building dynamic and responsive web applications. I'm always learning and improving my technical skills. Here’s an overview of what I’ve learned so far and the technologies I work with:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imtiaza1&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+## 📊 GitHub Stats  
+
+<div align="center">
+    <!-- GitHub Stats Card -->
+    <img src="https://github-readme-stats.vercel.app/api?username=imtiaza1&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="Imtiaz's GitHub Stats" width="500" />
+</div>
 
 ---
 
