@@ -1,82 +1,21 @@
-# Hi there! 👋 I’m Imtiaz Ali
+# 💫 About Me:
+🔭 I’m currently working on Flutter mobile app projects.  <br>👯 I’m looking to collaborate on open-source Flutter apps or mobile development.  <br>🤝 I’m looking for help with state management in Flutter.  <br>🌱 I’m currently learning Flutter & Dart.  <br>💬 Ask me about web and mobile development.  <br>⚡ Fun fact: I love gaming, coding, and exploring new tech!
 
-### 🌐 Full-Stack Web Developer | 💻 Passionate Coder | 🚀 Lifelong Learner  
 
-Welcome to my GitHub profile! I'm a dedicated Full-Stack Web Developer, passionate about building dynamic and responsive web applications. I'm always learning and improving my technical skills. Here’s an overview of what I’ve learned so far and the technologies I work with:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/imtiaz-ali-07b80a295/) 
 
-## 📊 GitHub Stats  
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=imtiaza1&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=imtiaza1&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=imtiaza1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<div align="center">
-    <!-- GitHub Stats Card -->
-    <img src="https://github-readme-stats.vercel.app/api?username=imtiaza1&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="Imtiaz's GitHub Stats" width="500" />
-</div>
-
----
-
-## 🚀 Skills & Technologies
-
-### Version Control  
-- ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) **Git**: Mastering tracking, branching, merging, and managing code revisions.
-
-### Front-End Development  
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) **HTML5**  
-- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) **CSS3**  
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) **JavaScript**: Building responsive, dynamic web pages.  
-- ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white) **Bootstrap**: Designing beautiful, mobile-first websites.  
-- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) **TypeScript**: Developing scalable applications with Angular.
-
-### Back-End Development  
-- ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) **PHP**  
-- ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white) **Laravel**: Designing and developing powerful web applications.  
-- ![ASP.NET](https://img.shields.io/badge/.NET-5.0-purple?logo=dotnet&logoColor=white) **ASP.NET MVC**: Building server-side applications with modern .NET framework.
-
-### Database Management  
-- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) **MySQL**  
-- ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white) **SQL Server**: Designing and optimizing database schemas for web apps.  
-- **Advanced Database Operations**: Normalizing data and creating efficient data models.
-
-### Object-Oriented Programming (OOP)  
-- ![C#](https://img.shields.io/badge/C%23-2396C6?logo=csharp&logoColor=white) **C#**: Developing robust, object-oriented applications.
-
-### Data Handling  
-- ![XML](https://img.shields.io/badge/XML-FF8C00?logo=xml&logoColor=white) **XML**  
-- ![JSON](https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white) **JSON**: Storing, managing, and exchanging data efficiently.
-
-### UX/UI Design  
-- Designing intuitive user interfaces with focus on **user experience** and **visual design**.
-
-### Search Engine Optimization (SEO)  
-- Implementing best practices to increase organic website rankings.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=imtiaza1&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🎯 My Mission  
-- **Explore** modern technologies like React, Node.js, and more.  
-- **Build** scalable, real-world projects and contribute to impactful open-source solutions.
-
----
-
-## 📫 Let's Connect  
-- **Email**: [imtiazz421@gmail.com](mailto:imtiazz421@gmail.com)  
-- **GitHub**: [https://github.com/imtiaza1](https://github.com/imtiaza1)  
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/imtiaz-ali-07b80a295/)
-
----
-
-## 📊 GitHub Stats  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imtiaza1&layout=compact&theme=radical)
-
----
-
-## 💼 Featured Projects
-
-Here are a few projects I’m proud of:
-
-- [Portfolio Website](https://portfolioimt.netlify.app/)  
-- [Charity](https://kind-heart-charity.netlify.app/)  
-
-
----
-
-Let’s build something amazing together! 🌟  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
