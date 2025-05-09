@@ -1,5 +1,11 @@
 # 💫 About Me:
-🔭 I’m currently working on Flutter mobile app projects.  <br>👯 I’m looking to collaborate on open-source Flutter apps or mobile development.  <br>🤝 I’m looking for help with state management in Flutter.  <br>🌱 I’m currently learning Flutter & Dart.  <br>💬 Ask me about web and mobile development.  <br>⚡ Fun fact: I love gaming, coding, and exploring new tech!
+🔭 I’m currently working on MERN stack web projects.  
+👯 I’m looking to collaborate on open-source MERN or full-stack web applications.  
+🤝 I’m looking for help with advanced React patterns and backend optimization.  
+🌱 I’m currently learning more about React, Node.js, and MongoDB.  
+💬 Ask me about web development and JavaScript technologies.  
+⚡ Fun fact: I love gaming, coding, and exploring new tech!
+
 
 
 ## 🌐 Socials:
