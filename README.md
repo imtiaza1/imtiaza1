@@ -62,10 +62,6 @@
 - Contributing to open-source projects
 - Improving backend optimization techniques
 
-## 🚀 Featured Projects
-
-*Coming soon - showcasing my best work in web development and full-stack applications*
-
 ## ✍️ Random Dev Quote
 
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -73,8 +69,6 @@
 ---
 
 <div align="center">
-
-[![Profile Views](https://visitcount.itsvg.in/api?id=imtiaza1&icon=0&color=0)](https://visitcount.itsvg.in)
 
 **Thanks for visiting my profile! Let's connect and build something amazing together! 🚀**
 
