@@ -1,83 +1,76 @@
-# 💫 About Me
+# 👨‍💻 Imtiaz Ali — Full-Stack Developer  
 
-🔭 Currently working on MERN stack projects and full-stack applications  
-👯 Open to collaborating on open-source MERN, LAMP, or .NET Core projects  
-🤝 Looking for guidance on advanced React patterns and backend optimization  
-🌱 Expanding skills in React, Node.js, MongoDB, SQL, and R programming  
-💬 Ask me about web development, JavaScript technologies, and database design  
-⚡ Fun fact: I love gaming, coding, and exploring new technologies!
+🌍 Building end-to-end solutions with **MERN, LAMP & .NET Core MVC**  
+⚡ Passionate about **scalable apps, clean architecture, and creative problem-solving**  
+💡 Exploring **data analysis with R programming** alongside web development  
+🎮 Fun fact: I balance coding with gaming & tech exploration  
 
 ---
 
-## 🌐 Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imtiaz-ali-07b80a295/)
-
----
-
-## 💻 Tech Stack
-
-### Frontend Development
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### Backend Development
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-
-### Databases & Backend Services
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-
-### Full-Stack Frameworks
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
-### Cloud & Deployment
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-
----
-
-## 📊 GitHub Stats
+## 🚀 Tech Stack  
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imtiaza1&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+<!-- Row 1 -->
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /> 
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /> 
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" /> 
+<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" /> 
+<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" /> 
+<img src="https://img.shields.io/badge/.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" /> 
+<img src="https://img.shields.io/badge/sql%20server-%23CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?username=imtiaza1&theme=dark&hide_border=false)
+<!-- Row 2 -->
+<img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" /> 
+<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" /> 
+<img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" /> 
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /> 
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /> 
+<img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" /> 
+<img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" /> 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imtiaza1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!-- Row 3 -->
+<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> 
+<img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" /> 
+<img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" /> 
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" /> 
+<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /> 
+
+<!-- Row 4 (new additions) -->
+<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54" />
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
 
 </div>
 
 ---
 
-## 🎯 Current Focus
-
-- Building scalable MERN, LAMP, and .NET Core applications  
-- Exploring advanced React patterns and state management  
-- Learning R programming for data analysis  
-- Contributing to open-source projects  
-- Improving backend optimization techniques  
-
----
-
-## ✍️ Random Dev Quote
-
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
+## 📊 GitHub Performance  
 
 <div align="center">
 
-**Thanks for visiting my profile! Let's connect and build something amazing together 🚀**
+| Stats | Streak | Languages |
+|-------|--------|-----------|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imtiaza1&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?username=imtiaza1&theme=tokyonight&hide_border=false) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imtiaza1&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact) |
+
+</div>
+
+---
+
+## 🎯 Current Focus  
+- 🚀 Building **scalable full-stack apps** across MERN, LAMP & .NET  
+- 🎨 Mastering **advanced React & backend optimization**  
+- 📊 Exploring **R programming for data analysis**  
+- 🤝 Actively contributing to **open-source projects**  
+
+---
+
+## ✍️ Dev Quote of the Day  
+
+<div align="center">
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
+
+✨ **Thanks for visiting my profile — let’s innovate together!** 🚀  
 
 </div>
