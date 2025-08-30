@@ -1,15 +1,19 @@
 # 💫 About Me
 
-🔭 I'm currently working on MERN stack web projects and full-stack applications  
-👯 I'm looking to collaborate on open-source MERN or full-stack web applications  
-🤝 I'm looking for help with advanced React patterns and backend optimization  
-🌱 I'm currently learning more about React, Node.js, MongoDB, and R programming  
+🔭 Currently working on MERN stack projects and full-stack applications  
+👯 Open to collaborating on open-source MERN, LAMP, or .NET Core projects  
+🤝 Looking for guidance on advanced React patterns and backend optimization  
+🌱 Expanding skills in React, Node.js, MongoDB, SQL, and R programming  
 💬 Ask me about web development, JavaScript technologies, and database design  
-⚡ Fun fact: I love gaming, coding, and exploring new tech!
+⚡ Fun fact: I love gaming, coding, and exploring new technologies!
+
+---
 
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imtiaz-ali-07b80a295/)
+
+---
 
 ## 💻 Tech Stack
 
@@ -26,21 +30,21 @@
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 
-### Database & Backend Services
+### Databases & Backend Services
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
-### Full-Stack Development
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+### Full-Stack Frameworks
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-
-
 ### Cloud & Deployment
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+
+---
 
 ## 📊 GitHub Stats
 
@@ -54,13 +58,17 @@
 
 </div>
 
+---
+
 ## 🎯 Current Focus
 
-- Building scalable MERN stack applications
-- Exploring advanced React patterns and state management
-- Learning R programming for data analysis
-- Contributing to open-source projects
-- Improving backend optimization techniques
+- Building scalable MERN, LAMP, and .NET Core applications  
+- Exploring advanced React patterns and state management  
+- Learning R programming for data analysis  
+- Contributing to open-source projects  
+- Improving backend optimization techniques  
+
+---
 
 ## ✍️ Random Dev Quote
 
@@ -70,6 +78,6 @@
 
 <div align="center">
 
-**Thanks for visiting my profile! Let's connect and build something amazing together! 🚀**
+**Thanks for visiting my profile! Let's connect and build something amazing together 🚀**
 
 </div>
