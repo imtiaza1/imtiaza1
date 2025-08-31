@@ -1,4 +1,4 @@
-# 🚀 Imtiaz Ali — Full-Stack Developer & Tech Innovator
+## 👋Hi there, I'm Imtiaz
 
 <div align="center">
   
