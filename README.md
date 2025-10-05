@@ -68,8 +68,9 @@
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imtiaza1&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&animate=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=imtiaza1&theme=radical&hide_border=false&fire=7E3FCE&currStreakNum=7E3FCE&animate=true) |
 |:---:|:---:|
 
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imtiaza1&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8&animate=true) |
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imtiaza1&theme=radical&hide_border=false&layout=compact&langs_count=8&animate=true) |
 |:---:|
+
 
 </div>
 
